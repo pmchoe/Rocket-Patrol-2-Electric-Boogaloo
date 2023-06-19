@@ -1,7 +1,7 @@
 /*
 Philip Choe
 Rocket Patrol 2: The Electric Boogaloo
-approx time: xx hours
+approx time: 19 hours
 
 Mods:
     - Three 15-point tier mods (45 total)
